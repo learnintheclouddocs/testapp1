@@ -1,0 +1,4 @@
+"AadClientId": "5eeeda5e-f68c-45af-a210-361544570a35",
+"AadSecret": "2.X8Q~11ZKcSavkZoqlj-pxMoP-dra_1m5~aFbYP",
+"AadTenantDomain": "pttplccomsws.onmicrosoft.com",
+"AadTenantId": "d1a60897-2e56-453f-8ec2-e0f992b61532",
